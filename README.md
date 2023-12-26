@@ -1,6 +1,6 @@
 # Sales Analysis Project
 
-![Project Logo/Image]
+![image](https://github.com/roysushmita/Data-Mart-Sales-Analysis/assets/129031314/9b1043c6-a2e1-4099-9300-729d1c723f3b)
 
 ## Overview
 
@@ -14,21 +14,21 @@ This repository contains my comprehensive analysis of the sales data from the 5t
 
 ## Technologies Used
 
-- SQL
+- PostgreSQL
 - Power BI
 
 ## How to Use
 
-1. **Queries:** Check out the SQL queries in the `queries` directory.
-2. **Visualizations:** Explore the `visualizations` folder for insightful graphs.
-3. **Dashboard:** Access the Power BI dashboard in the `dashboard` directory.
+1. **Queries:** Check out the SQL queries in the [`queries`](https://github.com/roysushmita/Data-Mart-Sales-Analysis/blob/main/query/Data%20mart%20sales%20analysis.sql) directory.
+2. **Visualizations:** Explore the [`insights & visulazation`](https://github.com/roysushmita/Data-Mart-Sales-Analysis/blob/main/insigths%20%26%20visualization/Insights.md) file for insightful graphs.
+3. **Dashboard:** Access the Power BI dashboard in the [`insights & visulazation`](https://github.com/roysushmita/Data-Mart-Sales-Analysis/blob/main/insigths%20%26%20visualization/dashboard(sales_analysis).pbix) directory.
 
 ## Getting Started
 
 1. Clone the repository.
-   ```bash
-   git clone https://github.com/your-username/sales-analysis-project.git
-
+```
+    https://github.com/roysushmita/Data-Mart-Sales-Analysis.git
+```
 2. Explore the project folders and files.
 
 3. Open the Power BI dashboard for a dynamic view of the sales data.
