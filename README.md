@@ -1,4 +1,4 @@
-# Sales Analysis Project
+# Data Mart Sales Analysis 
 
 ![image](https://github.com/roysushmita/Data-Mart-Sales-Analysis/assets/129031314/9b1043c6-a2e1-4099-9300-729d1c723f3b)
 
