@@ -160,6 +160,9 @@ GROUP BY calendar_year;
 
 Total transactions for 2018 was $346,406,460, followed by $365,639,285 in 2019 and finally $375,813,651 in 2020. This showed consistent growth in transaction numbers over the years.
 
+![image](https://github.com/roysushmita/Data-Mart-Sales-Analysis/assets/129031314/9877ba18-102a-4706-ae28-d6f1dbe5b7b5)
+
+
 **4. What is the total sales for each region for each month?**
 ```
 SELECT region,month_number,SUM(sales) AS total_sales
@@ -194,6 +197,12 @@ ORDER BY region,month_number;
 
 24 records are added above.
 
+![image](https://github.com/roysushmita/Data-Mart-Sales-Analysis/assets/129031314/7b695fd6-7534-4026-ad8d-9ac33d9a1c3f)
+
+![image](https://github.com/roysushmita/Data-Mart-Sales-Analysis/assets/129031314/71ae0e92-0df9-4595-929d-169da36bf5fd)
+
+
+
 **5. What is the total count of transactions for each platform?**
 ```
 SELECT platform,SUM(transactions) AS total_count_transaction
@@ -206,6 +215,8 @@ GROUP BY platform;
 | Retail    | 1081934227           |
 
 Retail is significantly out performing Shopify by a total transaction count of 1,080,1934,227, where the count for shopify is 5,925,169.
+
+![image](https://github.com/roysushmita/Data-Mart-Sales-Analysis/assets/129031314/dd636741-3f92-4f5c-93f1-c04803a0c4b9)
 
 **6. What is the percentage of sales for Retail vs Shopify for each month?**
 ```
